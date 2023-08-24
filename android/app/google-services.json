@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416903669827",
+    "project_id": "chitgoja",
+    "storage_bucket": "chitgoja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416903669827:android:b20b0f0378d5397fa64cf6",
+        "android_client_info": {
+          "package_name": "com.example.chitgoja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416903669827-mpg9p3bkuons4hc0kak9htn39anteb36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK54lJhc3VD11BsJFU0NuQrROP0siv2aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416903669827-mpg9p3bkuons4hc0kak9htn39anteb36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
