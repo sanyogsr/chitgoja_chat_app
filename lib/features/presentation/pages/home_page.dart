@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
     return SafeArea(
       child: Container(
         // margin: EdgeInsets.only(top: 25),
-        // height: 40,
+        height: 60,
         decoration: BoxDecoration(color: Colors.white, boxShadow: [
           BoxShadow(
             color: Colors.transparent,

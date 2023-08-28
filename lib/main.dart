@@ -14,22 +14,20 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Material App',
+      title: 'Chitgoja App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
- primarySwatch: Colors.green
- ,
+        primarySwatch: Colors.green,
       ),
       onGenerateRoute: OnGenerateRoute.route,
 
       routes: {
-        "/":(context){
+        "/": (context) {
           return HomePage();
         }
-      },  
+      },
       initialRoute: '/',
-      // home: 
-    
+      // home:
     );
   }
 }
